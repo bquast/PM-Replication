@@ -14,17 +14,16 @@ this debate we discuss how graduate education in particular is an
 interesting place for replications. The replication of a paper can guide
 students during the transition from training to themselves undertaking
 research. At the same time, graduate students are sufficiently
-knowledgable to undertake a replication relatively independantly. One of
-the most important areas of discussion concerns the role of replication
-techniques in graduate education. We identify three key area in which we
-argue that replication can help students (and teachers):
+knowledgable to undertake a replication relatively independantly. We
+identify three key area in which we argue that replication can help
+students (and teachers):
 
 1.  familiase students with cutting-edge research tools
 2.  experience the practical difficulties of research work (statistical
     work)
 3.  help produce a publishable paper.
 
-In the sections below we will develop these idea in more detail.
+In the sections below we will develop these ideas in more detail.
 
 Familiarity with research tools
 -------------------------------
