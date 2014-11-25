@@ -59,7 +59,13 @@ will be used:
 
 and their interactions.
 
--   textual analysis
+Combinations of tools like these are very fertile in their utility
+across disciplines and also methodologies. In this instance, **tm** is
+used to mine text documents (research papers and patent applications),
+after which **RWeka** is used to apply machine learning techniques to
+this information. Finally, **iGraph** is used to map the social network
+of these interactions.
+
 -   computational simulations
 -   data availability + bring home, make data available
 

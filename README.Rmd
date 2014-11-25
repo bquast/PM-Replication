@@ -48,8 +48,14 @@ For instance, when replicating the paper **Exploring temporal relationships betw
 
 and their interactions.
 
+Combinations of tools like these are very fertile in their utility across disciplines and also methodologies.
+In this instance, **tm** is used to mine text documents (research papers and patent applications),
+after which **RWeka** is used to apply machine learning techniques to this information.
+Finally, **iGraph** is used to map the social network of these interactions.
 
-* textual analysis
+
+
+
 * computational simulations
 * data availability + bring home, make data available
 
