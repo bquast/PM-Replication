@@ -1,0 +1,11 @@
+---
+title: "PM Replication"
+author: "Danilo Freire and Bastiaan Quast"
+date: "Tuesday, November 25, 2014"
+output: md_document
+bibliography: bibliography.bib
+---
+
+This document was compiled using [@xie2013knitr] and [@rmarkdown].
+
+# References
