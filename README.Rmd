@@ -14,7 +14,7 @@ The merits of reproducible research are widely acknowledged by scholars in out f
 Although few political science journals have clear replication policies [@gherghina2013data] and replications are still not published as much as they should [@carsey2014making], there is a growing debate on how to make the discipline more open and reproducible.
 In the context of this debate we discuss how graduate education in particular is an interesting place for replications.
 The replication of a paper can guide students during the transition from training to themselves undertaking research.
-At the same time, graduate students are sufficiently knowledgable to undertake a replication relatively independantly.
+At the same time, graduate students are sufficiently knowledgable to undertake a replication relatively independently.
 We identify three key area in which we argue that replication can help students (and teachers): 
 
 1) familiase students with cutting-edge research tools

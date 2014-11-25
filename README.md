@@ -14,7 +14,7 @@ this debate we discuss how graduate education in particular is an
 interesting place for replications. The replication of a paper can guide
 students during the transition from training to themselves undertaking
 research. At the same time, graduate students are sufficiently
-knowledgable to undertake a replication relatively independantly. We
+knowledgable to undertake a replication relatively independently. We
 identify three key area in which we argue that replication can help
 students (and teachers):
 
