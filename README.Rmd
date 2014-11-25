@@ -1,16 +1,31 @@
 ---
 title: 'Education, Education: Replications as Pedagogical Tools'
-author: "Danilo Freire and Baastian Quast"
+author: "Danilo Freire and Bastiaan Quast"
 date: "24/11/2014"
-output: html_document
+output: md_document
 bibliography: bibliography.bib
 ---
 
+## Abstract
+
 ## Introduction
 
-The merits of reproducible research are widely acknowledged by scholars in out field [e.g., @demesquita2003symposium; @king1995replication; @rich2013publishing]. Although few political science journals have clear replication policies [@gherghina2013data] and replications are still not published as much as they should [@carsey2014making], there is a growing debate on how to make the discipline more open and reproducible. One of the most important areas of discussion concerns the role of replication techniques in graduate education. In this brief text, we argue that replication can help students (and teachers) in three ways: 1) by showing the practical difficulties of statistical work; 2) by familiaring students with cutting-edge research tools, and 3) by helping them to produce a publishable paper.
+The merits of reproducible research are widely acknowledged by scholars in out field [e.g., [@demesquita2003symposium]; [@king1995replication]; [@rich2013publishing]].
+Although few political science journals have clear replication policies [@gherghina2013data] and replications are still not published as much as they should [@carsey2014making], there is a growing debate on how to make the discipline more open and reproducible.
+In the context of this debate we discuss how graduate education in particular is an interesting place for replications.
+The replication of a paper can guide students during the transition from training to themselves undertaking research.
+At the same time, graduate students are sufficiently knowledgable to undertake a replication relatively independantly.
+One of the most important areas of discussion concerns the role of replication techniques in graduate education. 
+We identify three key area in which we argue that replication can help students (and teachers): 
+
+1) familiase students with cutting-edge research tools
+2) experience the practical difficulties of research work (statistical work)
+3) help produce a publishable paper.
+
+In the sections below we will develop these idea in more detail.
 
 
+## Familiarity with research tools
 
 
 
