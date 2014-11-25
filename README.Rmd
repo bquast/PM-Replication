@@ -1,7 +1,7 @@
 ---
 title: 'Education, Education: Replications as Pedagogical Tools'
 author: "Danilo Freire and Bastiaan Quast"
-date: "24/11/2014"
+date: "2014-11-24"
 output: md_document
 bibliography: bibliography.bib
 ---
@@ -21,7 +21,7 @@ We identify three key area in which we argue that replication can help students 
 2) experience the practical difficulties of research work (statistical work)
 3) help produce a publishable paper.
 
-In the sections below we will develop these ideas in more detail.
+In the sections below we will develop these ideas in some more detail.
 
 
 ## Familiarise with research tools
@@ -31,15 +31,27 @@ In many fields, the methodology is rapidly evolving often as a result of more da
 
 Computation environments such the R framework [@R] or MatLab [-@MatLab] have greatly facilitated the development and implementation of new methods in both qualitative and quantitative research.
 Personally designed methods can be packaged and made publicly available.
-This had lead to a large rise in the number of algorithms being available, often written by the authors themselves.
+This had lead to a large rise in the number of algorithms being available, often written by the authors of the methods themselves.
 However, non-commericial methods through which these software packages are distributed, combined with the vast number of them,
 can make it a somewhat daunting task determine the right software.
 
-Replications generally concern published and peer-reviewed articles, 
+Replications generally concern published and peer-reviewed articles,
+which means that the methods employed are proven to work
+and have also undergone some review by the original author as well the reviewers.
+This becomes especially useful when - as in most research - a combination of different methods is required.
+
+For instance, when replicating the paper **Exploring temporal relationships between scientific and technical fronts: a case of biotechnology field** by Huang et al. [-@huang2014exploring], the following packages will be used:
+
+* iGraph (social networks)
+* tm (text mining)
+* RWeka (machine learning)
+
+and their interactions.
+
 
 * textual analysis
 * computational simulations
-* data availability -> bring home, make data available
+* data availability + bring home, make data available
 
 
 

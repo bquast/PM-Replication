@@ -23,7 +23,7 @@ students (and teachers):
     work)
 3.  help produce a publishable paper.
 
-In the sections below we will develop these ideas in more detail.
+In the sections below we will develop these ideas in some more detail.
 
 Familiarise with research tools
 -------------------------------
@@ -37,16 +37,31 @@ MatLab (2014) have greatly facilitated the development and
 implementation of new methods in both qualitative and quantitative
 research. Personally designed methods can be packaged and made publicly
 available. This had lead to a large rise in the number of algorithms
-being available, often written by the authors themselves. However,
-non-commericial methods through which these software packages are
-distributed, combined with the vast number of them, can make it a
+being available, often written by the authors of the methods themselves.
+However, non-commericial methods through which these software packages
+are distributed, combined with the vast number of them, can make it a
 somewhat daunting task determine the right software.
 
 Replications generally concern published and peer-reviewed articles,
+which means that the methods employed are proven to work and have also
+undergone some review by the original author as well the reviewers. This
+becomes especially useful when - as in most research - a combination of
+different methods is required.
+
+For instance, when replicating the paper **Exploring temporal
+relationships between scientific and technical fronts: a case of
+biotechnology field** by Huang et al. (2014), the following packages
+will be used:
+
+-   iGraph (social networks)
+-   tm (text mining)
+-   RWeka (machine learning)
+
+and their interactions.
 
 -   textual analysis
 -   computational simulations
--   data availability -\> bring home, make data available
+-   data availability + bring home, make data available
 
 References
 ----------
@@ -56,6 +71,13 @@ Carsey, Thomas M. 2014. “Making DA-RT a Reality.” *PS: Political Science
 
 Gherghina, Sergiu, and Alexia Katsanidou. 2013. “Data Availability in
 Political Science Journals.” *European Political Science*.
+
+Huang, Mu-Hsuan, Ssu-Han Chen, Chia-Ying Lin, and Dar-Zen Chen. 2014.
+“Exploring Temporal Relationships Between Scientific and Technical
+Fronts: a Case of Biotechnology Field.” *Scientometrics* 98 (2):
+1085–1100.
+doi:[10.1007/s11192-013-1054-0](http://dx.doi.org/10.1007/s11192-013-1054-0).
+<http://dx.doi.org/10.1007/s11192-013-1054-0>.
 
 King, Gary. 1995. “Replication, Replication.” *PS: Political Science &
 Politics* 28 (03): 444–452.
