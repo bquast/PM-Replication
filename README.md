@@ -65,18 +65,22 @@ CI, have created the additional advantage that code can continuously be
 tested automatically. For a full discussion of continuous integration in
 reproducible research see Fitzjohn ().
 
-During the dat aanalysis phase, working with combinations of different
+During the data analysis phase, working with combinations of different
 package can require quite some technical expertise, especially when a
 combination of different packages is required. Q&A sites such as
 stackoverflow - and more recently the ones based o the open-source
 equivalent askbot, such as sagemath - allow users to post questions
 which can be answered by experiences other users (who gain reputation).
 In addition to solving the direct issue of user posting, experienced
-users often offer other insights about interpretation of results,
+users often offer other insights about, for instance, additional
+problems in the approach, new methods / tools that could be used,
+interpretation of results.
 
--   Robustness to specification
--   -   computational simulations
--   data availability + bring home, make data available
+In addition to Q&A sites, there are also platforms specifically
+dedicated to data interpretation. Figshare for example is an open access
+platform where graphs from base graphics or ggplot2 can
+
+-   Shiny apps
 
 Practical Difficulties of Research
 ----------------------------------
