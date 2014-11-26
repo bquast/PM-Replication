@@ -60,7 +60,9 @@ Finally, **iGraph** is used to map the social network of these interactions.
 * data availability + bring home, make data available
 
 
+## Practical Difficulties of Research
 
+A good example is the replication of on the paper **Evaluating the Nuclear Peace Hypothesis** [@rauchhaus2009evaluating] done by Bell and Miller [-@bell2013questioning].
 
 
 

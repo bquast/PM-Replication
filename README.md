@@ -69,8 +69,19 @@ of these interactions.
 -   computational simulations
 -   data availability + bring home, make data available
 
+Practical Difficulties of Research
+----------------------------------
+
+A good example is the replication of on the paper **Evaluating the
+Nuclear Peace Hypothesis** (Rauchhaus 2009) done by Bell and Miller
+(2013).
+
 References
 ----------
+
+Bell, Mark S, and Nicholas L Miller. 2013. “Questioning the Effect of
+Nuclear Weapons on Conflict.” *Journal of Conflict Resolution*:
+0022002713499718.
 
 Carsey, Thomas M. 2014. “Making DA-RT a Reality.” *PS: Political Science
 & Politics* 47 (01): 72–77.
@@ -96,6 +107,10 @@ Studies Research.” *International Studies Perspectives* 4 (1): 72–107.
 R Core Team. 2014. *R: A Language and Environment for Statistical
 Computing*. Vienna, Austria: R Foundation for Statistical Computing.
 <http://www.R-project.org/>.
+
+Rauchhaus, Robert. 2009. “Evaluating the Nuclear Peace Hypothesis a
+Quantitative Approach.” *Journal of Conflict Resolution* 53 (2):
+258–277.
 
 Rich, Timothy S. 2013. “Publishing as a Graduate Student: A Quick and
 (Hopefully) Painless Guide to Establishing Yourself as a Scholar.” *PS:
