@@ -48,25 +48,34 @@ undergone some review by the original author as well the reviewers. This
 becomes especially useful when - as in most research - a combination of
 different methods is required.
 
-For instance, when replicating the paper **Exploring temporal
-relationships between scientific and technical fronts: a case of
-biotechnology field** by Huang et al. (2014), the following packages
-will be used:
+Many research focused platforms have emerge over the past few years
+which can be very useful at the various stages of a research /
+replication project.
 
--   iGraph (social networks)
--   tm (text mining)
--   RWeka (machine learning)
+Public repository website such as GitHub - or self-hosted open-source
+equivalents such as GitLab or Gogs - offer a good place to host project
+remotely. There are several key advantages to this:
 
-and their interactions.
+-   a remote backup
+-   a well documented and timed claim to the research idea
+-   ability to work collaboratively on data analysis (e.g. .R files)
 
-Combinations of tools like these are very fertile in their utility
-across disciplines and also methodologies. In this instance, **tm** is
-used to mine text documents (research papers and patent applications),
-after which **RWeka** is used to apply machine learning techniques to
-this information. Finally, **iGraph** is used to map the social network
-of these interactions.
+More recently, the rise of continuous integration tools such as Travil
+CI, have created the additional advantage that code can continuously be
+tested automatically. For a full discussion of continuous integration in
+reproducible research see Fitzjohn ().
 
--   computational simulations
+During the dat aanalysis phase, working with combinations of different
+package can require quite some technical expertise, especially when a
+combination of different packages is required. Q&A sites such as
+stackoverflow - and more recently the ones based o the open-source
+equivalent askbot, such as sagemath - allow users to post questions
+which can be answered by experiences other users (who gain reputation).
+In addition to solving the direct issue of user posting, experienced
+users often offer other insights about interpretation of results,
+
+-   Robustness to specification
+-   -   computational simulations
 -   data availability + bring home, make data available
 
 Practical Difficulties of Research
@@ -74,7 +83,15 @@ Practical Difficulties of Research
 
 A good example is the replication of on the paper **Evaluating the
 Nuclear Peace Hypothesis** (Rauchhaus 2009) done by Bell and Miller
-(2013).
+(2013) provides an interesting example of how ....data
+separation...problem stata....
+
+Publish a paper
+---------------
+
+A finalised research project is only a first step towards a publishable
+research paper. Following the example of the original paper, can help
+with structure,
 
 References
 ----------
@@ -86,15 +103,12 @@ Nuclear Weapons on Conflict.” *Journal of Conflict Resolution*:
 Carsey, Thomas M. 2014. “Making DA-RT a Reality.” *PS: Political Science
 & Politics* 47 (01): 72–77.
 
+FitzJohn, Rich, Matt Pennell, Amy Zanne, and Will Cornwell“Reproducible
+Research Is Still a Challenge.”
+<http://ropensci.org/blog/2014/06/09/reproducibility/>.
+
 Gherghina, Sergiu, and Alexia Katsanidou. 2013. “Data Availability in
 Political Science Journals.” *European Political Science*.
-
-Huang, Mu-Hsuan, Ssu-Han Chen, Chia-Ying Lin, and Dar-Zen Chen. 2014.
-“Exploring Temporal Relationships Between Scientific and Technical
-Fronts: a Case of Biotechnology Field.” *Scientometrics* 98 (2):
-1085–1100.
-doi:[10.1007/s11192-013-1054-0](http://dx.doi.org/10.1007/s11192-013-1054-0).
-<http://dx.doi.org/10.1007/s11192-013-1054-0>.
 
 King, Gary. 1995. “Replication, Replication.” *PS: Political Science &
 Politics* 28 (03): 444–452.
