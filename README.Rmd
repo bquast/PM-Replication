@@ -2,7 +2,7 @@
 title: 'Education, Education: Replicable Research as a Pedagogical Tool'
 author: "Danilo Freire and Bastiaan Quast"
 date: '2014-11-24'
-output: html_document
+output: md_document
 bibliography: bibliography.bib
 ---
 
