@@ -1,39 +1,28 @@
 ---
-title: 'Education, Education: Replications as Pedagogical Tools'
+title: 'Education, Education: Replicable Research as a Pedagogical Tool'
 author: "Danilo Freire and Bastiaan Quast"
-date: "2014-11-24"
-output: md_document
+date: '2014-11-24'
+output: html_document
 bibliography: bibliography.bib
 ---
 
-## Abstract
-
 ## Introduction
 
-The merits of reproducible research are widely acknowledged by scholars in out field [e.g., [@demesquita2003symposium]; [@king1995replication]; [@rich2013publishing]].
-Although few political science journals have clear replication policies [@gherghina2013data] and replications are still not published as much as they should [@carsey2014making], there is a growing debate on how to make the discipline more open and reproducible.
-In the context of this debate we discuss how graduate education in particular is an interesting place for replications.
-The replication of a paper can guide students during the transition from training to themselves undertaking research.
-At the same time, graduate students are sufficiently knowledgable to undertake a replication relatively independently.
-We identify three key area in which we argue that replication can help students (and teachers): 
+The merits of reproducible research have already been widely acknowledged by political scientists (e.g., [@demesquita2003symposium]; [@king1995replication]; [@rich2013publishing]). Although replications are yet to appear more frequently in academic publications [@carsey2014making], there is a lively debate about how to make the discipline more open and reproducible, which seems to have gained momentum after the Reinhart-Rogoff scandal last year [@herndon2014does]. Here we discuss how graduate education plays an important yet overlooked role in improving transparency in political science research. We argue that the replication of a paper can serve as a guideline of good practices for pupils, and it is particularly relevant when students are making the transition from training to writing their first articles. We identify three key areas in which replications are specially helpful:
 
-1) familiarise students with cutting-edge research tools
-2) experience the practical difficulties of research work (statistical work)
+1) familiarise students with cutting-edge research tools;
+2) experience the practical difficulties of research work;
 3) help produce a publishable paper.
 
-In the sections below we will develop these ideas in some more detail.
+In the sections below we develop these ideas in further detail. We also present some practical tips for tutors who are willing to use replications as assignments in their lectures.
 
 
 ## Familiarise with research tools
 
-One of the key benefits of replications is that is introduces students to current research and its practice.
-In many fields, the methodology is rapidly evolving often as a result of more data and data analysis tools.
+One of the key benefits of replications is that is introduces students to current research practices. In many fields, the methodology is rapidly evolving often as a result of more data and data analysis tools.
 
-Computation environments such the R framework [@R] or MatLab [-@MatLab] have greatly facilitated the development and implementation of new methods in both qualitative and quantitative research.
-Personally designed methods can be packaged and made publicly available.
-This had lead to a large rise in the number of algorithms being available, often written by the authors of the methods themselves.
-However, non-commericial methods through which these software packages are distributed, combined with the vast number of them,
-can make it a somewhat daunting task determine the right software.
+Computation environments such the R statistical language [@R] or MatLab [-@MatLab] have greatly facilitated the development and implementation of new methods in both quantitative and qualitative research. Personally designed methods can be packaged and made publicly available. This had lead to a large rise in the number of algorithms being available, often written by the authors of the methods themselves.
+However, non-commericial methods through which these software packages are distributed, combined with the vast number of them, can make it a somewhat daunting task determine the right software.
 
 Replications generally concern published and peer-reviewed articles,
 which means that the methods employed are proven to work
