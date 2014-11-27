@@ -1,5 +1,5 @@
 ---
-title: 'Education, Education: Replicable Research as a Pedagogical Tool'
+title: 'Education, Education: Reproducible Research as a Pedagogical Tool'
 author: "Danilo Freire and Bastiaan Quast"
 date: '2014-11-24'
 output: md_document
@@ -8,7 +8,7 @@ bibliography: bibliography.bib
 
 ## Introduction
 
-The merits of reproducible research have already been widely acknowledged by political scientists (e.g., [@demesquita2003symposium]; [@king1995replication]; [@rich2013publishing]). Although replications are yet to appear more frequently in academic publications [@carsey2014making], there is a lively debate about how to make the discipline more open and reproducible, which seems to have gained momentum after the Reinhart-Rogoff scandal last year [@herndon2014does]. Here we discuss how graduate education plays an important yet overlooked role in improving transparency in political science research. We argue that the replication of a paper can serve as a guideline of good practices for pupils, and it is particularly relevant when students are making the transition from training to writing their first articles. We identify three key areas in which replications are specially helpful:
+The merits of reproducible research have already been widely acknowledged by political scientists (e.g., [@demesquita2003symposium]; [@king1995replication]; [@rich2013publishing]). Although replications are yet to appear more frequently in academic publications [@carsey2014making], there is a lively debate about how to make the discipline more open and reproducible. Here we discuss how graduate education plays an important yet overlooked role in improving transparency in political science research. We argue that the replication of a paper can serve as a guideline of good practices for pupils, and it is particularly relevant when students are making the transition from training to writing their first articles. We identify three key areas in which replications are specially helpful:
 
 1) familiarise students with cutting-edge research tools;
 2) experience the practical difficulties of research work;
