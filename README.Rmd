@@ -58,9 +58,10 @@ new methods / tools that could be used,
 interpretation of results.
 
 In addition to Q&A sites, there are also platforms specifically dedicated to data interpretation.
-Figshare for example is an open access platform where graphs from base graphics or ggplot2 can 
-
-* Shiny apps
+Platforms such as Figshare or Plotly allow research output to be uploaded and shared with others, 
+who can comment and suggest alternative ways of e.g. visualising the information.
+Another interesting addition to the online visualisation scene is the R package shiny,
+this package allows users to change elements of the visualisation using e.g. sliders in stead of fixed parameters.
 
 
 ## Practical Difficulties of Research
